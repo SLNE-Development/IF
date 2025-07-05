@@ -316,6 +316,7 @@ public enum Version {
                 return V1_21_4;
             case "1.21.5":
                 return V1_21_5;
+            case "1.21.7":
             case "1.21.6":
                 return V1_21_6;
             default:
